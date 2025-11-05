@@ -1,0 +1,20 @@
+2025-11-05 14:27:10.159 [info] [GitExtensionServiceImpl] Initializing Git extension service.
+2025-11-05 14:27:10.159 [info] [GitExtensionServiceImpl] Successfully activated the vscode.git extension.
+2025-11-05 14:27:10.159 [info] [GitExtensionServiceImpl] Enablement state of the vscode.git extension: false.
+2025-11-05 14:27:10.389 [info] Allowing anonymous access with devDeviceId
+2025-11-05 14:27:10.404 [info] Using the Electron fetcher.
+2025-11-05 14:27:10.715 [info] Got Copilot token for devDeviceId
+2025-11-05 14:27:10.715 [info] Copilot Chat: 0.32.4, VS Code: 1.105.1
+2025-11-05 14:27:10.915 [info] copilot token chat_enabled: true, sku: no_auth_limited_copilot
+2025-11-05 14:27:10.916 [info] GitHub.vscode-pull-request-github extension is not yet activated.
+2025-11-05 14:27:10.978 [warning] Unable to fetch remote agents because user is not signed in.
+2025-11-05 14:27:10.985 [info] activationBlocker from 'conversationFeature' took for 514ms
+2025-11-05 14:27:11.009 [info] activationBlocker from 'languageModelAccess' took for 527ms
+2025-11-05 14:27:11.189 [info] copilot token chat_enabled: true, sku: no_auth_limited_copilot
+2025-11-05 14:27:11.253 [info] Fetched model metadata in 670ms 9fa3930c-fbbc-4437-a34b-7547c2c9a91d
+2025-11-05 14:27:11.273 [info] Latest entry: ccreq:latest.copilotmd
+2025-11-05 14:27:11.277 [info] ccreq:1afc713a.copilotmd | markdown
+2025-11-05 14:27:11.346 [info] Fetched auto model in 64ms.
+2025-11-05 14:27:16.846 [info] Refetch model metadata: Succeeded in 301ms a7288745-6fd3-425f-9f38-b0cf8423520c (FB18:3127AA:F22144:112C008:690BA51E) using node-http with status 403.
+2025-11-05 14:27:17.116 [info] Refetch model metadata: Succeeded in 269ms 45c7f47e-a4f5-4ded-be32-cf4182b1fdf6 (FB19:21A7DB:E5F19E:106B691:690BA51E) using node-fetch with status 403.
+2025-11-05 14:27:17.297 [info] Refetch model metadata: Succeeded in 181ms 1fb8d9cd-c970-4ecf-94f1-c80f24521f1c (FB1A:A8367:EE8824:10F2865:690BA51E) using electron-fetch with status 403.

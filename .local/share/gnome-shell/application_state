@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<application-state>
+  <context id="">
+    <application id="snap-store_ubuntu-software.desktop" score="14" last-seen="1762370778"/>
+    <application id="org.gnome.Nautilus.desktop" score="29" last-seen="1762370614"/>
+    <application id="gnome-session-properties.desktop" score="0" last-seen="1762370668"/>
+    <application id="gnome-initial-setup.desktop" score="1" last-seen="1762366639"/>
+    <application id="code_code.desktop" score="76" last-seen="1762371840"/>
+    <application id="org.gnome.Terminal.desktop" score="373" last-seen="1762371851"/>
+    <application id="software-properties-gtk.desktop" score="0" last-seen="1762370659"/>
+    <application id="update-manager.desktop" score="1" last-seen="1762366719"/>
+  </context>
+</application-state>
